@@ -1089,17 +1089,6 @@
          ]
       },
       {
-         "name":"Dropbox",
-         "url":"https://hackerone.com/dropbox",
-         "bounty":true,
-         "domains":[
-            "hellosign.com",
-            "helloworks.com",
-            "dropboxforum.com",
-            "dropbox.com"
-         ]
-      },
-      {
          "name":"Snapchat",
          "url":"https://hackerone.com/snapchat",
          "bounty":true,
@@ -2590,7 +2579,7 @@
       {
          "name":"BMW Group",
          "url":"https://hackerone.com/bmwgroup",
-         "bounty":false,
+         "bounty":true,
          "domains":[
             "bmw.de",
             "mini.de",
